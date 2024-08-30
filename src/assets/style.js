@@ -1,0 +1,17 @@
+export const styles = {
+  "pink": "#FF5380",
+  "purple": "#8A38F2",
+  "bg-primary": "bg-[#0F0F15]",
+  "bg-secondary": "bg-[#141418]",
+  "bg-component": "bg-[#1D1C21]",
+  "bg-pink": "bg-[#FF5380]",
+  "bg-purple": "bg-[#8A38F2]",
+  "bg-gradient-tb": "bg-gradient-to-b to-[#8A38F2] from-[#FF5380]",
+  "bg-gradient-tbr": "bg-gradient-to-br to-[#8A38F2] from-[#FF5380]",
+  "hover-bg-gradient-tbr": "hover:border-none hover:bg-gradient-to-br from-[#8A38F2] to-[#FF5380] transition-colors duration-800 ",
+  "text-pink": "text-[#FF5380]",
+  "text-purple": "text-[#8A38F2]",
+  "text-gradient-tb": "bg-gradient-to-b to-[#8A38F2] from-[#FF5380] bg-clip-text text-transparent",
+  "text-gradient-tbr": "bg-gradient-to-br to-[#8A38F2] from-[#FF5380] bg-clip-text text-transparent",
+  "hover-text-gradient-tbr": "hover:bg-gradient-to-br hover:to-[#8A38F2] hover:from-[#FF5380] bg-clip-text text-transparent transition-all duration-1000 delay ",
+};
